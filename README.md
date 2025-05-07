@@ -11,7 +11,7 @@ The state space is low-dimensional but continuous, making it an excellent enviro
 2) The pole is hinged to a cart.  
 3) The cart can move left or right along a track.  
 
-Its state space is comprised of four variables:
+Its state space consists of four variables:
 
 - The cart position on the track (x-axis), ranging from –2.4 to 2.4  
 - The cart velocity along the track (x-axis), ranging from –∞ to ∞  
