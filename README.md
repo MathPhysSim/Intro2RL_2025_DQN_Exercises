@@ -33,7 +33,7 @@ The reward function is +1 for every time step.
 
 ---
 
-- Write a DQN algorithm as given in the lecture. Show the cumulative reward of your agent as a function of the episodes during training and validate the result on 100 episodes.  
+- Complete the DQN algorithm as given in `Classical_DQN_template.py`. Show the cumulative reward of your agent as a function of the episodes during training and validate the result on 100 episodes.  
   What is the cumulative average reward of the 100 episodes?  
   A good practice is to average the results over five different random seeds and show the standard deviation.
 
@@ -43,7 +43,7 @@ The reward function is +1 for every time step.
 
 ## DQN Implementation Template (Python Script)
 
-The script `Classical_DQN_solution_template.py` provides a template to implement a Deep Q-Network (DQN) agent for solving the Cart-Pole environment using reinforcement learning.
+The script `Classical_DQN_template.py` provides a template to implement a Deep Q-Network (DQN) agent for solving the Cart-Pole environment using reinforcement learning.
 
 ### Purpose
 
